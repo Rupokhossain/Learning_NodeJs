@@ -1,1 +1,5 @@
-[{"id":1,"name":"Product - 1","Price":500},{"id":2,"name":"Product - 2","Price":600},{"id":3,"name":"Product - 3","Price":700},{"id":1778496291547,"name":"product - test","description":"product - description","price":35000}]
+[
+  { "id": 1, "name": "Product - 1", "Price": 500 },
+  { "id": 2, "name": "lapotp", "Price": 300 },
+  { "id": 3, "name": "Product - 3", "Price": 700 }
+]
